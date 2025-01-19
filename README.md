@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My Crush is Null
+- ⚡ Fun fact: My Crush is M
 
 <!---
 404dontsleep/404dontsleep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
